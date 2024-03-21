@@ -9,11 +9,9 @@ Languages used-->
   <li>CSS</li>
   <li>JS</li> 
 </ul>
-<br>
 <hr>
 Framework used--> 
 <ul>
   <li>Bootstrap</li>
 </ul>
-<br>
 <hr>
